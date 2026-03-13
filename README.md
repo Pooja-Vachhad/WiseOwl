@@ -68,7 +68,7 @@ Students don't just READ about history - they **STEP INSIDE** it.
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Pooja-Vachhad/WiseOwl.git
 cd fibo
 ```
 
